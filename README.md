@@ -1,4 +1,4 @@
-# Chen Danqing Skill（陈丹青 Skill）
+# ChenDanqing-Skill（陈丹青-Skill）
 
 A distilled cognitive framework of **Chen Danqing** (b. 1953), one of China's most provocative painters, critics, and public intellectuals.
 
